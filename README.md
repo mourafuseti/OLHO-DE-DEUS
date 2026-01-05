@@ -83,7 +83,8 @@ Esta ferramenta foi desenhada para **Kali Linux** ou **Parrot OS**.
 
 ## 💻 Como Usar
 
-Execute sempre com `sudo` (root), caso contrário o script não conseguirá realizar a deteção de OS nem scans furtivos.
+Execute sempre com `sudo` (root), caso contrário o script não conseguirá realizar a
+deteção de OS nem scans furtivos.
 
 ```bash
 sudo python3 godeye_automaton.py
